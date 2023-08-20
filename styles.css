@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+*{
+	width:110px;
+	background-color:#9ED2BE;
+}
+.col1{
+	width:200px;
+	
+}
